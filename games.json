@@ -13,5 +13,10 @@
 		"name": "Tabuada 3",
 		"id": 3,
 		"image": "/game1.jpg"
+	},
+	{
+		"name": "Tabuada 4",
+		"id": 4,
+		"image": "/game1.jpg"
 	}
 ]
