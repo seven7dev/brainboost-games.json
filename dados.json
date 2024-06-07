@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undefined",
-		"id": 3,
+		"id": 1,
 		"image": "/maintence.png",
 		"archive": "Undefined.html"
 	},
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "K-Quizz",
-		"id": 1,
+		"id": 3,
 		"image": "/kquizz.png",
 		"archive": "kquizz.html"
 	}
