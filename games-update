@@ -1,77 +1,20 @@
 [
 	{
-		"name": "GTA 6",
+		"name": "K-Quizz",
 		"id": 1,
-		"image": "/game1.png"
+		"image": "/game1.png",
+		"archive": "game1.html"
 	},
 	{
-		"name": "Minecraft",
+		"name": "Undefined",
 		"id": 2,
-		"image": "/game2.png"
+		"image": "/game2.png",
+		"archive": "game2.html"
 	},
 	{
-		"name": "CSGO",
+		"name": "Undefined",
 		"id": 3,
-		"image": "/game3.png"
+		"image": "/game3.png",
+		"archive": "game3.html"
 	},
-	{
-		"name": "Roblox",
-		"id": 3,
-		"image": "/game4.png"
-	},
-		{
-		"name": "Stumble",
-		"id": 3,
-		"image": "/game5.png"
-	},
-			{
-		"name": "GTA 6",
-		"id": 1,
-		"image": "/game1.png"
-	},
-	{
-		"name": "Minecraft",
-		"id": 2,
-		"image": "/game2.png"
-	},
-	{
-		"name": "CSGO",
-		"id": 3,
-		"image": "/game3.png"
-	},
-	{
-		"name": "Roblox",
-		"id": 3,
-		"image": "/game4.png"
-	},
-		{
-		"name": "Stumble",
-		"id": 3,
-		"image": "/game5.png"
-	},
-	{
-		"name": "GTA 6",
-		"id": 1,
-		"image": "/game1.png"
-	},
-	{
-		"name": "Minecraft",
-		"id": 2,
-		"image": "/game2.png"
-	},
-	{
-		"name": "CSGO",
-		"id": 3,
-		"image": "/game3.png"
-	},
-	{
-		"name": "Roblox",
-		"id": 3,
-		"image": "/game4.png"
-	},
-		{
-		"name": "Stumble",
-		"id": 3,
-		"image": "/game5.png"
-	}
 ]
