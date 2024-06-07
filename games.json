@@ -1,72 +1,20 @@
 [
 	{
-		"name": "Tabuada",
+		"name": "K-Quizz",
 		"id": 1,
-		"image": "/game1.jpg"
+		"image": "/game1.png",
+		"archive": "game1.html"
 	},
 	{
-		"name": "Tabuada 2",
+		"name": "Undefined",
 		"id": 2,
-		"image": "/game1.jpg"
+		"image": "/game2.png",
+		"archive": "game2.html"
 	},
 	{
-		"name": "Tabuada 3",
+		"name": "Undefined",
 		"id": 3,
-		"image": "/game1.jpg"
+		"image": "/game3.png",
+		"archive": "game3.html"
 	},
-	{
-		"name": "Tabuada 4",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 5",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 6",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 7",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 8",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 9",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 10",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 11",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 12",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-		{
-		"name": "Tabuada 13",
-		"id": 3,
-		"image": "/game1.jpg"
-	},
-	{
-		"name": "Tabuada 14",
-		"id": 4,
-		"image": "/game1.jpg"
-	}
 ]
