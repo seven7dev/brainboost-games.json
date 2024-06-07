@@ -1,0 +1,20 @@
+[
+	{
+		"name": "K-Quizz",
+		"id": 1,
+		"image": "/game1.png",
+		"archive": "game1.html"
+	},
+	{
+		"name": "Undefined",
+		"id": 2,
+		"image": "/game2.png",
+		"archive": "game2.html"
+	},
+	{
+		"name": "Undefined",
+		"id": 3,
+		"image": "/game3.png",
+		"archive": "game3.html"
+	}
+]
